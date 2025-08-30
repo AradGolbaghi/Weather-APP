@@ -1,0 +1,3 @@
+PIL
+python-dotenv
+requests
